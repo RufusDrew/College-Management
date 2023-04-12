@@ -1,0 +1,187 @@
+#title{
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+.navbar{
+    padding: 3% 8%;
+}
+
+.nav-item{
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 1.5em;
+}
+
+.navbar-brand{
+    font-weight: 500;
+    font-size: 3.5em;
+}
+
+.title-sec-1{
+    padding: 5% 10% 10%;
+    font-size: 3em;
+    line-height: 1.6;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+
+.title-img{
+    width: 40%;
+    margin-left: 10%;
+    
+
+}
+
+#products{
+   
+    padding: 5% 10%;
+
+}
+
+.product-title{
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+#productghee-carousel{
+    margin-bottom: 1em;
+}
+
+#productdalda-carousel{
+    margin-bottom: 1em;
+}
+
+
+.add-btn-style{
+   background-color: black;
+   border-radius: 100%;
+}
+
+.product-item{
+    margin-top: 1em;
+    margin-bottom: 1em;
+  
+}
+#features{
+    padding: 5% 10%;
+}
+
+
+.feature-item{
+    
+    text-align: center;
+    margin-bottom: 1rem;
+ 
+
+}
+
+.feature-icon{
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+.feature-icon:hover{
+    color: #ff4c68;
+}
+
+
+#footer{
+    padding: 5% 0% 2% 5%;
+    background-color: #ff4c68;
+    color: #fff;
+   
+
+}
+
+hr{
+   border: 1px solid white;
+   width: 50%;
+}
+.lower-footer{
+    text-align: center;
+}
+.upper-footer{
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 2em;
+}
+li > a{
+    text-decoration: none;
+    color: white;
+}
+
+.social-icon{
+    margin: 10px;
+}
+
+@media screen and (max-width: 1028px) {
+    #title{
+        text-align: center;
+    }
+    .title-img{
+        margin-left: 0%;
+        padding-bottom: 1em;
+    }
+
+   
+    
+}
+
+/* Login Section */
+
+
+.login-contanier{
+    
+ margin: 5% auto;
+
+    
+}
+
+
+/* Product card */
+
+.product-cart-img{
+    width: 60%;
+    height: 50%;
+    align-self: center;
+
+}
+
+
+/* product page */
+
+.product-item-card{
+    background-color: white;
+    margin: 5% auto;
+
+}
+
+/* profile */
+.profile-card{
+    
+    margin-top: 1em;
+    margin-bottom: 1rem;
+}
+
+.profile-tab-name{
+  font-size: medium;
+}
+
+/* My orders */
+.order-card{
+    border: 2px solid black;
+    border-radius:25px ;
+}
+
+/* chat */
+
+
+
+.chat-bubble{
+    background-color: lightgray;
+    padding: 0.5rem;
+    border: 2px solid black;
+    border-radius: 8px;
+}
